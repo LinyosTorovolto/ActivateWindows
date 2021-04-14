@@ -1,0 +1,13 @@
+open command prompt as adminstrator (search cmd in windows search)
+slmgr.vbs /upk
+https://cdn.discordapp.com/attachments/729233547340021813/822443042233253908/unknown.png
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+https://cdn.discordapp.com/attachments/729233547340021813/822443204212424734/unknown.png
+slmgr /skms kms8.msguides.com
+https://cdn.discordapp.com/attachments/729233547340021813/822443344583458816/unknown.png
+slmgr /ato
+https://cdn.discordapp.com/attachments/729233547340021813/822443520043253821/unknown.png
+slmgr.vbs -xpr
+https://cdn.discordapp.com/attachments/729233547340021813/822443698918785044/unknown.png
+
+After this key expires, just google "windows 10 pro activation key" and rund the same commands but replace the current key with the new one
